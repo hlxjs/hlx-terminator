@@ -9,7 +9,7 @@
 A writable stream to write hls data to nowhere (/dev/null)
 
 ## Features
-* Being used with other [`hls-streams`](https://github.com/hls-streams) objects, it provides a functionality to terminate the stream pipeline.
+* Being used with other [`hlx`](https://github.com/hlxjs) objects, it provides a functionality to terminate the stream pipeline.
 
 ## Install
 [![NPM](https://nodei.co/npm/hlx-terminator.png?mini=true)](https://nodei.co/npm/hlx-terminator/)
