@@ -1,4 +1,4 @@
-hlx-[![Build Status](https://travis-ci.org/hlxjs/hlx-terminator.svg?branch=master)](https://travis-ci.org/hlxjs/hlx-terminator)
+[![Build Status](https://travis-ci.org/hlxjs/hlx-terminator.svg?branch=master)](https://travis-ci.org/hlxjs/hlx-terminator)
 [![Coverage Status](https://coveralls.io/repos/github/hlxjs/hlx-terminator/badge.svg?branch=master)](https://coveralls.io/github/hlxjs/hlx-terminator?branch=master)
 [![Dependency Status](https://david-dm.org/hlxjs/hlx-terminator.svg)](https://david-dm.org/hlxjs/hlx-terminator)
 [![Development Dependency Status](https://david-dm.org/hlxjs/hlx-terminator/dev-status.svg)](https://david-dm.org/hlxjs/hlx-terminator#info=devDependencies)
