@@ -2,6 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/hlxjs/hlx-terminator/badge.svg?branch=master)](https://coveralls.io/github/hlxjs/hlx-terminator?branch=master)
 [![Dependency Status](https://david-dm.org/hlxjs/hlx-terminator.svg)](https://david-dm.org/hlxjs/hlx-terminator)
 [![Development Dependency Status](https://david-dm.org/hlxjs/hlx-terminator/dev-status.svg)](https://david-dm.org/hlxjs/hlx-terminator#info=devDependencies)
+[![Known Vulnerabilities](https://snyk.io/test/github/hlxjs/hlx-terminator/badge.svg)](https://snyk.io/test/github/hlxjs/hlx-terminator)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 
