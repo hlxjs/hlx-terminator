@@ -1,6 +1,6 @@
 {
   "name": "hlx-terminator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A writable stream to write hls data to nowhere (/dev/null)",
   "main": "index.js",
   "directories": {
